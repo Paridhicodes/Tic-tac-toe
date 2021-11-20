@@ -1,2 +1,4 @@
 # Tic-tac-toe
-An updated version of the famous game tic-tac-toe
+Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!
+
+This is an updated version of tic-tac-toe. The user can choose to play with another player or with the computer itself and set easy or medium levels. You can type 'exit' if you wish to quit the game.
